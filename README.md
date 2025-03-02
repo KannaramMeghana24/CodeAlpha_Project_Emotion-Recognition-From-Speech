@@ -49,6 +49,7 @@ This project focuses on recognizing emotions from speech using machine learning.
 ## Dataset
 
 This project uses the **RAVDESS** dataset, which contains emotional speech recordings. Other datasets like **TESS**, **CREMA-D**, and **SAVEE** can also be used. The dataset includes recordings with different emotional tones to help train the model.
+https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
 
 ## Model Details
 
